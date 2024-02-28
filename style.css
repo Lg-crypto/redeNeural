@@ -1,2 +1,6 @@
-
+canvas{
+  width: 3000px;
+  height: 1000px;
+  border: 5px solid #000;
+}
 
