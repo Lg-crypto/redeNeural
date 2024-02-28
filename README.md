@@ -2,4 +2,5 @@
 
 Este repositorio contem uma rede neural simples em JavaScript
 
-#Pré req
+#Pré-requisitos
+navegador
