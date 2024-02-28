@@ -1,3 +1,5 @@
-# Esta é uma rede neural feita com js
+#Rede neural em JS
 
-:computer: uma rede neural é basicamente um algoritimo que faz uma I.A. funcionar
+Este repositorio contem uma rede neural simples em JavaScript
+
+#Pré req
